@@ -1,14 +1,14 @@
 {
-  "name": "VAJIRA-MD",
+  "name": "𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "vajirabot", "dark","VAJIRAMD","theme bot","multi device","baileys","vajira"],
+  "logo": "https://photos.app.goo.gl/iPQPPco93Q9skt3MA",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊Bot", "dark","𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊md","theme bot","multi device","baileys","𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "VAJIRA"
+      "value": "𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -28,7 +28,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg"
+     "value": "https://photos.app.goo.gl/iPQPPco93Q9skt3MA"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -84,7 +84,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use.Available theme is vajira, do not change it will come errors / මේක ව්එන්.අස් කරන්න එපා එර එනව",
-     "value": "VAJIRA"
+     "value": "𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
